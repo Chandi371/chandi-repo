@@ -1,0 +1,7 @@
+Package: kalilinux
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: yourname
+Description: Kali NetHunter Rootless Installer for Termux
